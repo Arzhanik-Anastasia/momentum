@@ -1,0 +1,14 @@
+.container__quote {
+  transition: all 1.3s;
+}
+
+.change-quote {
+  margin-bottom: 30px;
+  background-image: url('./../../../public/assets/svg/reload.svg');
+}
+
+.quote {
+  min-height: 32px;
+  max-width: 90%;
+  margin: 0 auto;
+}

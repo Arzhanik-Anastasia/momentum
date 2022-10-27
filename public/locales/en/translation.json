@@ -1,0 +1,37 @@
+{
+  "header": {
+    "set City": "Сity ​​must be specified",
+    "city placeholder": "Minsk",
+    "wind": "Wind speed",
+    "humidity": "Humidity"
+  },
+  "main": {
+    "morning": "Good morning",
+    "afternoon": "Good day",
+    "evening": "Good Evening",
+    "night": "Good night",
+    "months": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "days": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ]
+  }
+}
